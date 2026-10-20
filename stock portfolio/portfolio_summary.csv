@@ -1,0 +1,4 @@
+Timestamp,Ticker,Company,Shares,Buy Price,Current Price,Invested,Market Value,Gain/Loss,Gain/Loss %
+2026-10-20 14:48:31,AAPL,Apple Inc.,10,180.00,225.00,1800.00,2250.00,450.00,25.00
+2026-10-20 14:48:31,MSFT,Microsoft,5,450.00,420.00,2250.00,2100.00,-150.00,-6.67
+2026-10-20 14:48:31,TOTAL,,,,,4050.00,4350.00,300.00,7.41
