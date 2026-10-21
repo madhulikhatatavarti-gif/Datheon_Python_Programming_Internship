@@ -1,0 +1,74 @@
+2026-10-21 12:38:16,440  ERROR   'C:\Users\likhitha\Desktop\test_messy' is not a folder. Check the path and try again.
+2026-10-21 12:39:20,408  INFO    
+Organizing: C:\Users\likhitha\Desktop\test messy  (3 file(s) found)
+2026-10-21 12:39:20,408  INFO    
+2026-10-21 12:39:20,408  INFO      WOULD MOVE  notes.txt.txt  ->  Documents/
+2026-10-21 12:39:20,408  INFO      WOULD MOVE  photo.jpj.txt  ->  Documents/
+2026-10-21 12:39:20,408  INFO      WOULD MOVE  report.pdf.txt  ->  Documents/
+2026-10-21 12:39:20,408  INFO    
+2026-10-21 12:39:20,408  INFO    ==================================================
+2026-10-21 12:39:20,408  INFO      EXECUTION SUMMARY  (DRY RUN - nothing changed)
+2026-10-21 12:39:20,408  INFO    ==================================================
+2026-10-21 12:39:20,408  INFO      Folder:           C:\Users\likhitha\Desktop\test messy
+2026-10-21 12:39:20,408  INFO      Documents:        3 file(s) would be moved
+2026-10-21 12:39:20,414  INFO      ----------------------------------------------
+2026-10-21 12:39:20,416  INFO      Total would be moved: 3
+2026-10-21 12:39:20,417  INFO      Skipped:          0 (unrecognised type)
+2026-10-21 12:39:20,417  INFO      Errors:           0
+2026-10-21 12:39:20,417  INFO    ==================================================
+2026-10-21 12:42:11,051  ERROR   'C:\Users\YourName\Desktop\test messy' is not a folder. Check the path and try again.
+2026-10-21 12:42:59,451  INFO    
+Organizing: C:\Users\likhitha\Desktop\test messy  (3 file(s) found)
+2026-10-21 12:43:12,401  INFO    
+2026-10-21 12:43:12,406  INFO      MOVED  notes.txt.txt  ->  Documents/
+2026-10-21 12:43:12,409  INFO      MOVED  photo.jpj.txt  ->  Documents/
+2026-10-21 12:43:12,414  INFO      MOVED  report.pdf.txt  ->  Documents/
+2026-10-21 12:43:12,417  INFO    
+2026-10-21 12:43:12,417  INFO    ==================================================
+2026-10-21 12:43:12,417  INFO      EXECUTION SUMMARY
+2026-10-21 12:43:12,417  INFO    ==================================================
+2026-10-21 12:43:12,420  INFO      Folder:           C:\Users\likhitha\Desktop\test messy
+2026-10-21 12:43:12,420  INFO      Documents:        3 file(s) moved
+2026-10-21 12:43:12,420  INFO      ----------------------------------------------
+2026-10-21 12:43:12,422  INFO      Total moved:       3
+2026-10-21 12:43:12,424  INFO      Skipped:          0 (unrecognised type)
+2026-10-21 12:43:12,424  INFO      Errors:           0
+2026-10-21 12:43:12,426  INFO    ==================================================
+2026-10-21 12:43:12,426  INFO      Full log saved to C:\Users\likhitha\Desktop\file organizer\organizer.log
+2026-10-21 12:53:30,366  INFO    
+Organizing: C:\Users\likhitha\Desktop\test messy  (3 file(s) found)
+2026-10-21 12:53:37,575  INFO    
+2026-10-21 12:53:37,579  INFO      MOVED  notes.txt.txt  ->  Documents/
+2026-10-21 12:53:37,582  INFO      MOVED  photo.jpg.txt  ->  Documents/
+2026-10-21 12:53:37,586  INFO      MOVED  report.pdf.txt  ->  Documents/
+2026-10-21 12:53:37,586  INFO    
+2026-10-21 12:53:37,586  INFO    ==================================================
+2026-10-21 12:53:37,588  INFO      EXECUTION SUMMARY
+2026-10-21 12:53:37,588  INFO    ==================================================
+2026-10-21 12:53:37,588  INFO      Folder:           C:\Users\likhitha\Desktop\test messy
+2026-10-21 12:53:37,588  INFO      Documents:        3 file(s) moved
+2026-10-21 12:53:37,588  INFO      ----------------------------------------------
+2026-10-21 12:53:37,588  INFO      Total moved:       3
+2026-10-21 12:53:37,588  INFO      Skipped:          0 (unrecognised type)
+2026-10-21 12:53:37,588  INFO      Errors:           0
+2026-10-21 12:53:37,588  INFO    ==================================================
+2026-10-21 12:53:37,588  INFO      Full log saved to C:\Users\likhitha\Desktop\file organizer\organizer.log
+2026-10-21 13:03:24,823  INFO    
+Organizing: C:\Users\likhitha\Desktop\test messy  (3 file(s) found)
+2026-10-21 13:03:30,387  INFO    
+2026-10-21 13:03:30,391  INFO      MOVED  notes.txt  ->  Documents/
+2026-10-21 13:03:30,396  INFO      MOVED  photo.jpg  ->  Images/
+2026-10-21 13:03:30,396  INFO      MOVED  report.pdf  ->  Documents/
+2026-10-21 13:03:30,399  INFO    
+2026-10-21 13:03:30,400  INFO    ==================================================
+2026-10-21 13:03:30,400  INFO      EXECUTION SUMMARY
+2026-10-21 13:03:30,400  INFO    ==================================================
+2026-10-21 13:03:30,400  INFO      Folder:           C:\Users\likhitha\Desktop\test messy
+2026-10-21 13:03:30,400  INFO      Documents:        2 file(s) moved
+2026-10-21 13:03:30,402  INFO      Images:           1 file(s) moved
+2026-10-21 13:03:30,402  INFO      ----------------------------------------------
+2026-10-21 13:03:30,402  INFO      Total moved:       3
+2026-10-21 13:03:30,405  INFO      Skipped:          0 (unrecognised type)
+2026-10-21 13:03:30,407  INFO      Errors:           0
+2026-10-21 13:03:30,409  INFO    ==================================================
+2026-10-21 13:03:30,409  INFO      Full log saved to C:\Users\likhitha\Desktop\file organizer\organizer.log
